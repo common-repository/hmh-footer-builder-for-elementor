@@ -1,0 +1,65 @@
+.custom_mailchimp_footer5{
+	padding-top: 0px !important;
+	input[type="email"]{
+		width: 250px !important;
+		height: 35px !important;
+	}
+
+	input[type="submit"]{
+		color: white;
+		border: solid white 1px;
+		padding:1px !important;
+		margin-left: 15px;
+		width: 122px !important;
+		height: 35px !important;
+		background: {
+			color: #424242 !important;
+		}
+	}
+}
+.custom_mailchimp_footer10{
+	input[type="email"]{
+		padding-top: 0px !important;
+		width: 250px !important;
+		height: 35px !important;
+		background: #1488ff;
+		border: solid white 1px;
+	}
+
+	input[type="submit"]{
+		color: white;
+		padding:1px !important;
+		margin-left: 15px;
+		width: 122px !important;
+		height: 35px !important;
+		background: #1488ff;
+		border: solid white 1px;
+	}
+
+}
+.custom_mailchimp_footer11{
+	input[type="email"]{
+		padding-top: 0px !important;
+		width: 250px !important;
+		height: 35px !important;
+		background: #FFFFFF;
+		border: solid gray 1px;
+	}
+
+	input[type="submit"]{
+		color: black;
+		padding:1px !important;
+		margin-left: 15px;
+		width: 122px !important;
+		height: 35px !important;
+		background: #FFFFFF;
+		border: solid gray 1px;
+	}
+}
+.colorGray{
+	a{
+		color: gray !important;
+	}
+	
+}
+
